@@ -1,5 +1,6 @@
-# real-time-e2e-encrypted-chat-app
+# Real Time End to End Encrypted Chat App using Node.js and Socket.io
 
+Developed and Designed a real-time application for multiple users to do end-to-end encrypted chat, AES (Advanced Encryption Standard) algorithm is used for encrypting and decrypting the messages, also used React.js for frontend, Node.js for backend, JavaScript, Socket.io for real time.
 
 
 Demo : 
