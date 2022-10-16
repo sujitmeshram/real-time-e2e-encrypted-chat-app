@@ -3,6 +3,9 @@
 Developed and Designed a real-time application for multiple users to do end-to-end encrypted chat, AES (Advanced Encryption Standard) algorithm is used for encrypting and decrypting the messages, also used React.js for frontend, Node.js for backend, JavaScript, Socket.io for real time.
 
 
+Youtube Demo : https://youtu.be/_cxooCyLa1k
+
+
 Demo : 
 ![Screenshot (224)](https://user-images.githubusercontent.com/71513291/196022874-282b4b56-35e5-440d-99c5-ed4567421ab1.png)
 ![Screenshot (225)](https://user-images.githubusercontent.com/71513291/196022876-746f6f01-6c39-4e20-a2c1-61e8099346be.png)
@@ -17,5 +20,3 @@ Demo :
 
 
 
-
-Youtube Demo : https://youtu.be/_cxooCyLa1k
